@@ -1,0 +1,22 @@
+img{
+    border-radius: 50px;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+
+.header{
+    background-color: rgb(33, 33, 33);
+    color: #ffffff;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: #3F9795;
+}
+
+body{
+    background-color: #3F9795;
+}
