@@ -4,20 +4,19 @@
     justify-content: space-evenly;
 }
 
-.grid img{
-    border: 2px solid rgb(33, 33, 33);
+.main img{
+    border: 2px solid #3F9795;
     border-radius: 50px;
 }
 
 .origami{
-    border-radius: 20px;
-    background-color: #3F9795;
+    border-width: 2px;
 
     padding: 10px;
-
-    width: 303.8px;
     
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    color: #3F9795
 }
 
 .header, .grid, .bodyimg{
@@ -87,9 +86,9 @@ a:visited{
     color: white;
 }
 
-.origami:hover{
+/*.origami:hover{
     transform: scale(1.2);
-}
+}*/
 
 a{
     text-decoration: none;
